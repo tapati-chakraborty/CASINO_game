@@ -5,4 +5,4 @@ Casino Number Guessing Game
 * Run the Makefile to play the game
 *      make
 * Then run the command    
-    ./casino
+* ./casino
